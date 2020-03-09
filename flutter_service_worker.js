@@ -9,8 +9,11 @@ const RESOURCES = {
 "/assets\fonts\MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/assets\LICENSE": "1a80be6c5724a31e6f9c9e06dba53b63",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "9a62a954b81a1ad45a58b9bcea89b50b",
-"/index.html": "04f396d10f7e76b6567657589424df36",
-"/main.dart.js": "bd10175a6c4f8cc0805f856e25d5b331"
+"/icons\Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"/icons\Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"/index.html": "69c03ca4dde7d1f3cce8b7505fc58140",
+"/main.dart.js": "d5cd2cc24dcf1411c6f092c599def548",
+"/manifest.json": "62f979ed23b7e8e8dfbda44475c1c626"
 };
 
 self.addEventListener('activate', function (event) {
